@@ -50,3 +50,4 @@ def plant_id(image_path_1):
 			pprint(plant_result)
 			
 	return {'status':str(plant_result)}
+
